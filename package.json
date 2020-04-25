@@ -1,8 +1,8 @@
 {
     "name": "parcel-plugin-inline-source",
     "description": "Inline all flagged js, css source files",
-    "version": "1.0.0",
-    "author": "xingqiao <cctshiyu@126.com>",
+    "version": "1.0.1",
+    "author": "MainBrain,Lda.",
     "keywords": [
         "parcel",
         "parcel-plugin",
@@ -22,7 +22,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xingqiao/parcel-plugin-inline-source.git"
+        "url": "git+https://github.com/mainbrain-pt/parcel-plugin-inline-source.git"
     },
     "readmeFilename": "README.md",
     "license": "MIT"
